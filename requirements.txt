@@ -1,0 +1,4 @@
+pyautogui
+pygetwindow
+speech_recognition
+vosk
